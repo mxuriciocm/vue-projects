@@ -1,4 +1,4 @@
-export class ArticleEntity {
+export class Article {
     constructor(source, title, description, url, urlToImage) {
         this.source = source;
         this.title = title;
